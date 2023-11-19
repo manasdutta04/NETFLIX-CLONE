@@ -1,6 +1,13 @@
 # NETFLIX-CLONE
 NETFLIX CLONE using HTML &amp; CSS
 
+<p align="center">
+<img src="NETFLIX CLONE.gif" width="1280"/>
+</p>
+
+## License
+
+```
 MIT License
 
 Copyright (c) 2023 Manas Dutta
